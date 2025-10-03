@@ -6,12 +6,12 @@ The **Employee Project Tracker** is a Java application that demonstrates databas
 
 ## Features
 
-- ✅ **Database Connection**: Establishes secure connection to MySQL database using JDBC
-- ✅ **Auto Table Creation**: Automatically creates Employee and Project tables if they don't exist
-- ✅ **Employee Management**: Add, retrieve, and manage employee records
-- ✅ **Project Management**: Create and assign projects to employees
-- ✅ **CRUD Operations**: Supports Create, Read, Update, and Delete operations (extensible)
-- ✅ **DAO Pattern**: Implements Data Access Object pattern for clean code architecture
+-  **Database Connection**: Establishes secure connection to MySQL database using JDBC
+-  **Auto Table Creation**: Automatically creates Employee and Project tables if they don't exist
+-  **Employee Management**: Add, retrieve, and manage employee records
+-  **Project Management**: Create and assign projects to employees
+-  **CRUD Operations**: Supports Create, Read, Update, and Delete operations (extensible)
+-  **DAO Pattern**: Implements Data Access Object pattern for clean code architecture
 
 ## Prerequisites
 
