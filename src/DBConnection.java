@@ -8,7 +8,7 @@ public class DBConnection {
 
     // Database credentials
     private static final String USER = "root";          
-    private static final String PASSWORD = "Kerbalspaceprogram@11";      
+    private static final String PASSWORD = "root";      
 
     // Method to get a connection object
     public static Connection getConnection() throws SQLException {
