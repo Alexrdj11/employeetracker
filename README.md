@@ -1,8 +1,8 @@
-# Employee Project Tracker
+# Employee management
 
 ## Overview
 
-The **Employee Project Tracker** is a Java application that demonstrates database management using JDBC to handle employee and project information. The application connects to a MySQL database, automatically creates the required tables if they don't exist, and provides functionality for basic CRUD operations on employee and project records.
+The **Employee management** is a Java application that demonstrates database management using JDBC to handle employee and project information. The application connects to a MySQL database, automatically creates the required tables if they don't exist, and provides functionality for basic CRUD operations on employee and project records.
 
 ## Features
 
